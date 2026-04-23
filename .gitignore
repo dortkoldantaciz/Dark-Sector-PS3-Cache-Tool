@@ -3,4 +3,6 @@ __pycache__/
 *.spec
 build/
 dist/
-*.exe
+
+# EXE release (manually uploaded)
+tool.exe
